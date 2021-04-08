@@ -1,0 +1,26 @@
+{
+  "name": "Very Cool Cat",
+  "description": "Have you ever seen a cat like that?",
+  "image": "https://i.ibb.co/fG41hny/cat-moustache.png",
+  "external_url": "https://pureprana.art",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Strong"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Iron"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Sleep Power",
+      "value": 90
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Stamina decrease",
+      "value": 7
+    }
+  ]
+}

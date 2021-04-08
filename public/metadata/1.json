@@ -1,0 +1,26 @@
+{
+  "name": "Zajchiki i Kotiki",
+  "description": "A friendly reminder that zajchiki i kotiki are important creatures",
+  "image": "https://i.ibb.co/2Zwd3MQ/ZandK.jpg",
+  "external_url": "https://pureprana.art",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Sad"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Aqua Power",
+      "value": 40
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Stamina Increase",
+      "value": 10
+    }
+  ]
+}
