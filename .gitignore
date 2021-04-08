@@ -13,3 +13,6 @@ logs
 
 # Ignore IDE specific files
 .idea/
+
+package-lock.json
+.DS_Store
